@@ -1,4 +1,4 @@
-# TwoSum Fulampos – Desafio de Detetive 🕵️‍♂️
+# TwoSum Fulampos – Desafio de Detetive 
 
 Investigue se um suspeito poderia ter roubado exatos 150 fulampos usando apenas duas notas da carteira dele.
 
@@ -19,7 +19,7 @@ const carteira5 = [150]; // false
 const carteira6 = []; // false
 ```
 
-## 🚀 Solução (Método de Dois Ponteiros)
+##  Solução (Método de Dois Ponteiros)
 
 Como o array está ordenado, podemos usar dois ponteiros para encontrar a combinação de forma linear.
 
@@ -82,7 +82,9 @@ O terminal exibirá `true` ou `false` para cada caso de teste definido no arquiv
 - `desafio.js` — Implementação da função `podeTerRoubado` e (opcionalmente) os testes com `console.log`.
 - `README.md` — Este guia.
 
-## 🧪 Dica de testes
+
+  
+##  Dica de testes
 
 Coloque os casos de teste no final do `desafio.js` para ver os resultados imediatamente ao rodar com Node. Ex.:
 

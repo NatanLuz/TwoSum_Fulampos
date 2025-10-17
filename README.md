@@ -2,6 +2,8 @@
 
 Investigue se um suspeito poderia ter roubado exatos 150 fulampos usando apenas duas notas da carteira dele.
 
+Leia
+
 ## 📝 Descrição
 
 - Você recebe um array de inteiros ordenado (as notas na carteira de um suspeito).

@@ -93,11 +93,4 @@ const carteira1 = [10, 20, 50, 70, 80, 100, 150];
 console.log(podeTerRoubado(carteira1)); // true
 ```
 
-## 💡 Alternativas
 
-- For duplo (ingênuo): `O(n^2)` — testa todas as combinações de pares; simples, mas ineficiente para arrays grandes.
-- Hash/Set: `O(n)` — percorre uma vez guardando o complemento necessário (`150 - x`), porém usa espaço extra.
-
----
-
-Feito com foco em clareza e eficiência. Boa investigação! 🔍
